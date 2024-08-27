@@ -1,0 +1,253 @@
+2024-08-05 14:00:50.7228 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:01:20.1467 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:01:20.1467 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:01:20.1467 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:01:20.1631 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:01:50.9398 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:06.5713 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:06.5713 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:06.5713 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:06.5844 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:31.9199 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:40.9293 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:40.9293 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:40.9293 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:40.9293 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:43.4128 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:43.4279 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:43.4279 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:43.4279 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:43.9626 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:43.9763 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:43.9763 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
+2024-08-05 14:02:43.9763 Warn FileTarget(Name=allfile): Failed to create file appender: D:/Logs/nlog-all-2024-08-05.log Exception: NLog.NLogRuntimeException: Could not create directory D:\Logs
+ ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\Logs'.
+   at System.IO.FileSystem.CreateDirectory(String fullPath, Byte[] securityDescriptor)
+   at System.IO.Directory.CreateDirectory(String path)
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   --- End of inner exception stack trace ---
+   at NLog.Internal.FileAppenders.BaseFileAppender.TryCreateDirectoryFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.BaseFileAppender.CreateFileStream(Boolean allowFileSharedWriting, Int32 overrideBufferSize)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender..ctor(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.SingleProcessFileAppender.Factory.NLog.Internal.FileAppenders.IFileAppenderFactory.Open(String fileName, ICreateFileParameters parameters)
+   at NLog.Internal.FileAppenders.FileAppenderCache.CreateAppender(String fileName, Int32 freeSpot)
